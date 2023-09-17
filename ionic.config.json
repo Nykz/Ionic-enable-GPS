@@ -1,0 +1,7 @@
+{
+  "name": "geolocation-enable-gps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
